@@ -1,0 +1,39 @@
+:root{
+    --color--primary : #80C4D3;
+}
+.flex{
+    display: flex;
+}
+.w-1{
+    width: 10%;
+}
+.w-2{
+    width: 20%;
+}
+.w-3{
+    width: 30%;
+}
+.w-4{
+    width: 40%;
+}
+.w-5{
+    width: 50%;
+}
+.w-6{
+    width: 65%;
+}
+.w-7{
+    width: 70%;
+}
+.w-8{
+    width: 50%;
+}
+.w-9{
+    width: 50%;
+}
+.pt-50{
+    padding-top:50px ;
+}
+.mt-50{
+    margin-top: 50px;
+}
